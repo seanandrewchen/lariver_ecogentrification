@@ -1,0 +1,232 @@
+use_code,use
+0100,Single Family Residence
+0101,Single Residence with Pool
+0104,Single Residence with Therapy Pool
+010C,Single Residence/Condo
+010D,Single Residence/Planned Development
+010E,Single Residence/Condo Conversion
+010F,Single Residence/Cooperative
+010H,Single Residence/Own Your Own
+010V,Vacant Land
+0200,Two Units/4 Stories or Less
+0201,"Two Units w/ Pool, 4 Stories or Less"
+0250,Two Units/5 Stories or More
+0251,"Two Units w/ Pool, 5 Stories or More"
+0300,Three Units/4 Stories or Less
+0301,"Three Units w/ Pool, 4 Stories or Less"
+0350,Three Units/5 Stories or More
+0351,"Three Units w/ Pool, 5 Stories or More"
+0400,Four Units/4 Stories or Less
+0401,"Four Units w/ Pool, 4 Stories or Less"
+040V,Vacant Land - Residential
+0450,"Four Units, 5 Stories or More"
+0451,"Four Units w/ Pool, 5 Stories or More"
+050A,Multi-Unit Own-Your-Own
+0500,5+ Units/4 Stories or Less
+0501,"5+ Units w/ Pool, 4 Stories or Less"
+050A,Mulitunit Coopertaive
+050B,Multiunit Own Your Own
+0550,5+ Units/5 Stories or More
+0551,"5+ Units w/Pool, 5 Stories or More"
+0600,Modular Home/Single Residence
+0601,Modular Home/Single Residence w/ Pool
+0604,Modular Home/Single Residence w/ Therapy Pool
+060C,Modular Home/Single Residence/Condo
+060D,Modular Home/Single Residence/ Planned Dev.
+0610,Modular Home/Multiple Residence
+0611,Modular Home/Multiple Residence w/ Pool
+0614,Modular Home/Multiple Residence w/ Therapy Pool
+061C,Modular Home/Multiple Residence/Condo
+061D,Modular Home/Multiple Res/Planned Dev
+0700,Mobile Home/Single Residence/ Not in Park
+070D,Mobile Home-Double Wide
+070L,Mobile Home- Licensed
+070P,Mobile Home/Single Residence
+070Q,Mobile Home- Quad-wide
+070S,Mobile Home- Single-wide
+070T,Mobile Home- Triple-wide
+0710,Mobile Home/Multiple Residence/ Not in Park
+071P,Mobile Home- Licensed
+0800,Rooming House
+0900,Mobile Home Park
+0901,Mobile Home Park w/ Pool
+1000,Commercial
+100V,Vacant Land - Commercial
+1100,Store
+110V,Vacant Land-Commercial
+1010,Miscellaneous Commercial
+1200,Store and Office Combination
+1210,Store and Residential Combo
+1300,Department Store
+1310,Discount Department Store
+1320,Building Supplies
+1330,Home Furnishings
+1340,Retail-Warehouse Combo
+1400,Supermarket
+1410,Supermarket
+1420,Small Food Store
+1500,Neighborhood Shopping
+1600,Regional Shopping
+1700,Office Building
+1710,Office Building/Loft Type
+1720,Office Building/Residential
+1800,Hotel/Under 50 Rooms
+1810,Hotel/50 Rooms and Over
+1820,Motel/Under 50 Rooms
+1830,Motel/50 Rooms and Over
+1840,Motel or Hotel/Apt Under 50 Units
+1850,Motel or Hotel/Apt 50 Units and Up
+1900,Professional Building
+1910,Medical/Dental Building
+1912,Medical/Dental Bldg. 2-5 Stories
+1920,Veterinary Hospital/Clinic
+2000,Commercial
+2100,Restaurant/Lounge/Tavern
+210V,Vacant Land Restaurant/Lounge/Tavern
+2110,Fast Food-Walkup
+2120,Fast Food Drive-up
+2200,Wholesale/Manufacturing Outlet
+2300,Bank/Savings and Loan
+2400,Service Shop/Paint/Laundry
+2500,Service Station/Full Service
+2510,Service Station/Self Service
+2520,Service Station w/ Car Wash
+2600,Auto Service/Body and Fender
+2610,Used Car Sales
+2620,New Car Sales/Service
+2630,Car Wash
+2640,Car Wash/Self service
+2650,Recreation Equipment
+2660,Farm/Construction Equipment
+2670,Auto Service/No Gas
+2700,Parking Lot/Parton or Employee
+2710,Parking Lot/Commercial
+2720,Parking Structure- Patron or Employee
+2730,Parking Structure-Commercial
+2800,Animal Kennel
+2900,Nursery/Greenhouse
+3000,Industrial
+300V,Vacant Land - Industrial
+3010,Miscellaneous Industrial
+3100,Light Manufacturing/Printing
+3200,Heavy Manufacturing
+3240,Heavy Manufacturing/Cold Storage Plant
+3260,Heavy Manufacturing - Glass/Paint
+3300,Warehouse/Distributor
+3340,Public Storage
+3350,Public Storage - Mini Warehouse
+3510,Radio/TV Transmission Facility
+3520,Microwave Tower
+3600,Lumber Yard
+3700,Mineral Processing
+3710,Cement/Rock/Gravel Plant
+3720,Refinery/Chemical Plant
+3800,Parking Lot-Industrial Use
+3900,Open Storage
+3910,Trucking Company/Terminal
+3920,Contractor Storage Yard
+4000,Irrigated Farm
+4010,Private Rural Pumping Plant
+4100,Irrigated Farm-Fruits and Nuts
+4200,Irrigated Farm-Vineyard
+4300,Irrigated Farm-Vine and Brush Frt
+4400,Irrigated Farm-Truck Crops
+4500,Irrigated Farm-Field Crops
+4600,Irrigated Farm-Pasture
+4700,Irrigated Farm-Dairy
+4800,Irrigated Farm-Poultry
+4900,Irrigated Farm-Feed Lot
+490V,Vacant Land-Feed Lot
+5000,Dry Farm
+5100,Dry Farm-Fruits and Nuts
+510V,Vacant Land-Dry farm Fruits & Nuts
+5200,Dry Farm- Vineyard
+5300,Dry Farm_ Field Crops
+5400,Dry Farm-Pasture
+5500,Timber-Pine
+5600,Timber-Fir
+5700,Timber-Redwood
+5800,Desert
+580V,Vacant Land/Desert
+5900,Waste
+6000,Recreational
+6100,Indoor Cinema
+6110,Drive-in Movie
+6120,Theater
+6300,Bowling Alley
+6400,Club/Lodge Hall/Fraternal Organization
+6500,Auditorium/Stadium/Amphitheater
+6510,Amusement Facility
+6520,Commercial Pool/School
+6530,Gym/Health Spa
+6540,Dance Hall
+6550,Tennis Court/Club/Pro Shop
+6600,Golf Course
+6610,Golf Course- Non-Profit
+6620,Par 3 Golf Course
+6630,Miniature Golf Course
+6700,Race Track
+6710,Private Horse Stable
+6800,Camp
+6810,Trailer/Camper Park
+6900,Skating Park
+6910,Roller Skating Rink
+7000,Institutional
+7100,Church
+7110,Church Parking Lot
+7200,Private School
+7300,Private College/University
+7400,Hospital
+7410,Nursing Home/Convalescent Hospital
+7500,Home for Aged and Others
+7700,Cemetery/Mausoleum
+7710,Mortuary/Funeral Home
+8000,Miscellaneous
+8100,Utility/Pump Plant/State Prop
+810V,Vacant Land-Miscellaneous
+8200,Mining
+8300,Petroleum and Gas
+8400,Pipe Line/Canal
+8500,Right of Way
+8600,Water Rights
+8700,River/Lake
+8800,Government Owned
+880V,Vacant Land - Government Owned
+8810,Right of way Government
+8811,Street/Road/Highway
+8812,Future Street/Alley
+8813,Power Transmission Lines
+8814,Sewer/Utilities
+8820,Central Government Services
+8821,City Hall/Admin Center
+8822,Auxiliary/Regional Center
+8823,Police/Fire Station
+8824,Utility Office
+8825,Social Service/Welfare
+8826,Postal Facility
+8827,Library
+8828,Court Building/Jail
+8829,Military Post
+8830,Public School General
+8831,College
+8832,High School
+8833,Elementary School
+8834,School Administration Center
+8835,School Service Center
+8840,Recreation-General
+8841,Public Park
+8842,Art Center/Museum
+8843,Public Swimming Pool
+8844,Sports Stadium
+8845,Beach
+8846,Horse Stable
+8847,Amusement Ride
+8848,Baseball Field
+8849,Youth Facility
+8850,Water Recreation Facility
+8855,Flood Control Drainage
+8856,Irrigation Related
+8862,Airport
+8873,Parking Lot Lease
+8900,Dump Site
+8891,Public Housing
